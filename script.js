@@ -8,9 +8,6 @@
 $( document ).ready(function() {
 //Task 3: Have the words "Rolling in the Deep" appear on the HTML page in a div tag.    
     
-/*Task 4: Create a site that can search display songs from an artist specified by the user.
-        Step 1: Create an input field and search button on the HTML page. The input fiels must ask the user to type in an Artist's name
-        Step 2: Using the value of what the user has typed in the input field display the names of all songs by that artist.
-*/    
-    
+//Task 4: (project) Create a site that can display songs from an artist specified by a user search.
+
 });
